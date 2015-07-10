@@ -1,0 +1,1 @@
+SUBDIRS=libAiryWaveTheory include exampleProgram
